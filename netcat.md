@@ -1,5 +1,5 @@
 
-##NETCAT
+## NETCAT  
 Nos permite abrir puertos y hacer conexiones por medio de él.
 
  - Modo directo (Abrir un puerto y conectarse at ravés de él)  
