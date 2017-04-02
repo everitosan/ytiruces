@@ -71,4 +71,4 @@ Nos permite abrir puertos y hacer conexiones por medio de él.
       nc -lvp 127.0.0.1 9090
     ```
 ## CRYPTCAT
-  Es una alternativa a nectat con una capa ssl que a diferencia de **netcat**, no envía la información en texto plano.
+  Es una alternativa a **nectat** con una capa ssl que a diferencia, no envía la información en texto plano.
