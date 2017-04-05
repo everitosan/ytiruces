@@ -7,3 +7,5 @@ Listado de herramientas.
 
 - [NetCat](./netcat.md)
 - [Tcpdump](./tcpdump.md)
+- [ssh](./sshTunel.md)
+- [WhoIs](./whois.md)
