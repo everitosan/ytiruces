@@ -8,4 +8,8 @@ Listado de herramientas.
 - [NetCat](./netcat.md)
 - [Tcpdump](./tcpdump.md)
 - [ssh](./sshTunel.md)
+
+Information Gathering
+---
 - [WhoIs](./whois.md)
+- [Maltego](./maltego.md)

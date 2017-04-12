@@ -1,5 +1,5 @@
 ## TCPDUMP
-Analiza paquetes por medio de un interfaz en línea de comandos.  
+Analiza paquetes por medio de un interfaz en línea de comandos. Alterniativa de terminal a WireShark
 
 Por defecto analizará la interfaz eth0
 
