@@ -13,3 +13,4 @@ Information Gathering
 ---
 - [WhoIs](./whois.md)
 - [Maltego](./maltego.md)
+- [Netcraft](./netcraft.md)
