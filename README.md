@@ -15,7 +15,8 @@ Information Gathering
 - [Maltego](./maltego.md)
 - [Netcraft](./netcraft.md)  
 - [Fierce](./fierce.md)
-. [MetaGooFil](./metagoolfil.md)
+- [MetaGooFil](./metagoolfil.md)
+- [Nmap](./nmap.md)
 
 Phishing
 ---
