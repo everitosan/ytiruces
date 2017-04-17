@@ -2,7 +2,7 @@
 ## NETCAT  
 Nos permite abrir puertos y hacer conexiones por medio de él.
 
- - Modo directo (Abrir un puerto y conectarse at ravés de él)  
+ - Modo directo (Abrir un puerto y conectarse através de él)  
     ### Chat
     -SERVER Escucha por el puerto 8080
      ```sh
