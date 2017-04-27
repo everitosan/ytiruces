@@ -2,6 +2,8 @@
 
 Los apuntes están divididos en herramientas  y dentro de cada archivo markdown encontrará ejemplos
 
+Introducción a la terminal
+- [Terminal](./terminal.md)
 
 Listado de herramientas.
 
